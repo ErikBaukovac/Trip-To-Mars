@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial;
+    color: white;
+    margin-left: 20px;
+    background-image: url("https://images.hdqwalls.com/download/sky-full-of-stars-space-5k-h0-1920x1080.jpg");
+    background-size: 100% 100%;
+}
+
+h3{
+    font-family: "Times New Roman";
+    font-size: 25px;
+}
+
+p{
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+label{
+    display: inline-block;
+    width: 150px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+input{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
