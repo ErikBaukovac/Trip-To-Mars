@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="Style.css" type="text/css">
 
 <?php
-$servername="localhost";
-$username= "root";
-$password="BP2Erik";
-$dbname="mars";
+$servername="";
+$username= "";
+$password="";
+$dbname="";
 
 $conn = new mysqli($servername,$username,$password,$dbname);
 
