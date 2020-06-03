@@ -1,2 +1,2 @@
 # Trip-To-Mars
-MySQL database for Faculty Project with simple (CRUD) PHP application 
+MySQL database and PHP app for Faculty Project
